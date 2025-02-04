@@ -1,0 +1,83 @@
+﻿@model PerfilesSA2.Models.Empleado
+
+<h2>Editar Empleado</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="EmpleadoID" />
+
+    <div class="form-group">
+        <label for="Nombres">Nombres</label>
+        <input asp-for="Nombres" class="form-control" />
+        <span asp-validation-for="Nombres" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="DPI">DPI</label>
+        <input asp-for="DPI" class="form-control" />
+        <span asp-validation-for="DPI" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="FechaNacimiento">Fecha de Nacimiento</label>
+        <input asp-for="FechaNacimiento" type="date" class="form-control" />
+        <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Genero">Género</label>
+        <select asp-for="Genero" class="form-control">
+            <option value="Masculino">Masculino</option>
+            <option value="Femenino">Femenino</option>
+        </select>
+        <span asp-validation-for="Genero" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="FechaIngreso">Fecha de Ingreso</label>
+        <input asp-for="FechaIngreso" type="date" class="form-control" />
+        <span asp-validation-for="FechaIngreso" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Direccion">Dirección</label>
+        <input asp-for="Direccion" class="form-control" />
+        <span asp-validation-for="Direccion" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="NIT">NIT</label>
+        <input asp-for="NIT" class="form-control" />
+        <span asp-validation-for="NIT" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="DepartamentoID">Departamento</label>
+        <select asp-for="DepartamentoID" class="form-control" asp-items="@(new SelectList(ViewBag.Departamentos, "DepartamentoID", "Nombre", Model.DepartamentoID))">
+            <option value="">Seleccione un departamento</option>
+        </select>
+        <span asp-validation-for="DepartamentoID" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        <script>
+            function validateForm() {
+                const dpi = document.querySelector('input[name="DPI"]').value;
+                const nit = document.querySelector('input[name="NIT"]').value;
+
+                const dpiPattern = /^\d{13}$/;
+                const nitPattern = /^\d+$/;
+
+                if (!dpiPattern.test(dpi)) {
+                    alert("El DPI debe contener exactamente 13 dígitos numéricos.");
+                    return false;
+                }
+
+                if (!nitPattern.test(nit)) {
+                    alert("El NIT solo puede contener dígitos numéricos.");
+                    return false;
+                }
+
+                return true; // Formulario válido
+            }
+        </script>
+    }
+}

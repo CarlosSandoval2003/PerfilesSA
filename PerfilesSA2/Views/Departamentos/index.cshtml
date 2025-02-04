@@ -1,0 +1,30 @@
+﻿@model IEnumerable<PerfilesSA2.Models.Departamento>
+
+<h2>Lista de Departamentos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var departamento in Model)
+        {
+                <tr>
+                    <td>@departamento.Nombre</td>
+                    <td>@(departamento.Estado ? "Habilitado" : "Deshabilitado")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@departamento.DepartamentoID">Editar</a>
+                        <form asp-action="Toggle" asp-route-id="@departamento.DepartamentoID" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-link">@((departamento.Estado ? "Deshabilitar" : "Habilitar"))</button>
+                        </form>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Create">Agregar Nuevo Departamento</a>

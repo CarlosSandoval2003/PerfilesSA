@@ -1,0 +1,43 @@
+﻿@model IEnumerable<PerfilesSA2.Models.Empleado>
+
+<h2>Lista de Empleados</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>DPI</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Género</th>
+            <th>Fecha de Ingreso</th>
+            <th>Edad (años)</th>
+            <th>Tiempo Laborado (días)</th>
+            <th>Departamento</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var empleado in Model)
+        {
+            <tr>
+                <td>@empleado.Nombres</td>
+                <td>@empleado.DPI</td>
+                <td>@empleado.FechaNacimiento.ToShortDateString()</td>
+                <td>@empleado.Genero</td>
+                <td>@empleado.FechaIngreso.ToShortDateString()</td>
+                <td>@empleado.Edad</td> 
+                <td>@empleado.TiempoLaborado</td>
+                <td>@empleado.DepartamentoID</td>
+                <td>@(empleado.Estado ? "Activo" : "Inactivo")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@empleado.EmpleadoID">Editar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Create">Agregar Nuevo Empleado</a>
+<a class="btn btn-primary" asp-action="Reporte">Ver Reporte de Empleados</a>
+

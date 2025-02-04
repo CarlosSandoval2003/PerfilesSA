@@ -1,0 +1,56 @@
+﻿@model IEnumerable<dynamic>
+
+<h2>Reporte de Empleados</h2>
+
+<form asp-action="Reporte" method="get">
+    <div class="form-group">
+        <label for="fechaInicio">Fecha de Ingreso Desde:</label>
+        <input type="date" name="fechaInicio" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="fechaFin">Fecha de Ingreso Hasta:</label>
+        <input type="date" name="fechaFin" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="departamentoId">Departamento:</label>
+        <select name="departamentoId" class="form-control">
+            <option value="">Seleccione un departamento</option>
+            @foreach (var departamento in ViewBag.Departamentos)
+            {
+                <option value="@departamento.DepartamentoID">@departamento.Nombre</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Filtrar</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Departamento</th>
+            <th>Nombre</th>
+            <th>DPI</th>
+            <th>Edad</th>
+            <th>Fecha de Ingreso</th>
+            <th>Género</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var grupo in Model)
+        {
+            foreach (var empleado in grupo.Empleados)
+            {
+                <tr>
+                    <td>@grupo.Departamento</td>
+                    <td>@empleado.Nombre</td>
+                    <td>@empleado.DPI</td>
+                    <td>@empleado.Edad</td>
+                    <td>@empleado.FechaIngreso.ToShortDateString()</td>
+                    <td>@empleado.Genero</td>
+                    <td>@(empleado.Estado ? "Activo" : "Inactivo")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
