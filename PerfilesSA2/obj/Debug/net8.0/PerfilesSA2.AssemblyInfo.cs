@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerfilesSA2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+468d0e0e40b736aae221b8c71a1a7e1bdd4469a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerfilesSA2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerfilesSA2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

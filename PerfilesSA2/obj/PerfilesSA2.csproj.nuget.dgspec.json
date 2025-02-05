@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\PerfilesSA2.csproj": {}
+    "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\PerfilesSA2.csproj": {
+    "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\PerfilesSA2.csproj",
+        "projectUniqueName": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj",
         "projectName": "PerfilesSA2",
-        "projectPath": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\PerfilesSA2.csproj",
+        "projectPath": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj",
         "packagesPath": "C:\\Users\\jawic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\obj\\",
+        "outputPath": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jawic\\AppData\\Roaming\\NuGet\\NuGet.Config",

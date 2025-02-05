@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\source\\repos\\perfilessa2\\perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\source\\repos\\perfilessa2\\perfilessa2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\source\\repos\\perfilessa2\\perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\source\\repos\\perfilessa2\\perfilessa2\\perfilessa2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -59,8 +59,8 @@
       "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\source\\repos\\perfilessa2\\perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\source\\repos\\perfilessa2\\perfilessa2\\scripts\\pefilessascript.sql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\scripts\\pefilessascript.sql||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -81,8 +81,7 @@
               "ToolTip": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\PerfilesSA2.csproj",
               "RelativeToolTip": "PerfilesSA2\\PerfilesSA2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T22:45:13.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T22:45:13.717Z"
             },
             {
               "$type": "Document",
@@ -170,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\appsettings.json",
               "RelativeDocumentMoniker": "PerfilesSA2\\appsettings.json",
               "ToolTip": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\appsettings.json",
               "RelativeToolTip": "PerfilesSA2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-04T21:43:07.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PefilesSAScript.sql ",
               "DocumentMoniker": "C:\\Users\\jawic\\source\\repos\\PerfilesSA2\\PerfilesSA2\\Scripts\\PefilesSAScript.sql",
               "RelativeDocumentMoniker": "PerfilesSA2\\Scripts\\PefilesSAScript.sql",
