@@ -7,32 +7,8 @@
       "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\perfilessa2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\perfilessa2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\models\\reporteempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\models\\reporteempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +17,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\scripts\\pefilessascript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\perfilessa2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\perfilessa2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\models\\reporteempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\models\\reporteempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|c:\\users\\jawic\\desktop\\yiayiayiayia\\perfilessa\\perfilessa2\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAEE7EC8-C5B2-4C5B-9690-70514559D4B3}|PerfilesSA2\\PerfilesSA2.csproj|solutionrelative:perfilessa2\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,34 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PerfilesSA2",
-              "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj",
-              "RelativeDocumentMoniker": "PerfilesSA2\\PerfilesSA2.csproj",
-              "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj",
-              "RelativeToolTip": "PerfilesSA2\\PerfilesSA2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T22:45:13.717Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Reporte.cshtml",
-              "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
-              "RelativeDocumentMoniker": "PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
-              "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
-              "RelativeToolTip": "PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-05T20:21:16.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\index.cshtml",
               "RelativeDocumentMoniker": "PerfilesSA2\\Views\\Empleados\\index.cshtml",
@@ -105,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Empleados.cs",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Models\\Empleados.cs",
               "RelativeDocumentMoniker": "PerfilesSA2\\Models\\Empleados.cs",
@@ -113,11 +90,12 @@
               "RelativeToolTip": "PerfilesSA2\\Models\\Empleados.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:20:54.273Z"
+              "WhenOpened": "2024-11-05T20:20:54.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Models\\Departamento.cs",
               "RelativeDocumentMoniker": "PerfilesSA2\\Models\\Departamento.cs",
@@ -125,35 +103,38 @@
               "RelativeToolTip": "PerfilesSA2\\Models\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:20:50.913Z"
+              "WhenOpened": "2024-11-05T20:20:50.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "EmpleadosController.cs",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Controllers\\EmpleadosController.cs",
               "RelativeDocumentMoniker": "PerfilesSA2\\Controllers\\EmpleadosController.cs",
               "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Controllers\\EmpleadosController.cs",
               "RelativeToolTip": "PerfilesSA2\\Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:20:41.226Z"
+              "WhenOpened": "2024-11-05T20:20:41.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DepartamentoController.cs",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Controllers\\DepartamentoController.cs",
               "RelativeDocumentMoniker": "PerfilesSA2\\Controllers\\DepartamentoController.cs",
               "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Controllers\\DepartamentoController.cs",
               "RelativeToolTip": "PerfilesSA2\\Controllers\\DepartamentoController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:20:36.743Z"
+              "WhenOpened": "2024-11-05T20:20:36.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PerfilesSA2\\Controllers\\HomeController.cs",
@@ -161,7 +142,8 @@
               "RelativeToolTip": "PerfilesSA2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T21:42:08.857Z"
+              "WhenOpened": "2025-02-04T21:42:08.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -178,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PefilesSAScript.sql",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Scripts\\PefilesSAScript.sql",
               "RelativeDocumentMoniker": "PerfilesSA2\\Scripts\\PefilesSAScript.sql",
@@ -197,11 +179,48 @@
               "RelativeToolTip": "PerfilesSA2\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T21:41:17.332Z"
+              "WhenOpened": "2025-02-04T21:41:17.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Create.cshtml",
+              "RelativeDocumentMoniker": "PerfilesSA2\\Views\\Empleados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Create.cshtml",
+              "RelativeToolTip": "PerfilesSA2\\Views\\Empleados\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:21:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reporte.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
+              "RelativeDocumentMoniker": "PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
+              "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
+              "RelativeToolTip": "PerfilesSA2\\Views\\Empleados\\Reporte.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:21:16.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerfilesSA2",
+              "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj",
+              "RelativeDocumentMoniker": "PerfilesSA2\\PerfilesSA2.csproj",
+              "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\PerfilesSA2.csproj",
+              "RelativeToolTip": "PerfilesSA2\\PerfilesSA2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T22:45:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ReporteEmpleado.cs",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Models\\ReporteEmpleado.cs",
               "RelativeDocumentMoniker": "PerfilesSA2\\Models\\ReporteEmpleado.cs",
@@ -214,18 +233,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Create.cshtml",
-              "RelativeDocumentMoniker": "PerfilesSA2\\Views\\Empleados\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Create.cshtml",
-              "RelativeToolTip": "PerfilesSA2\\Views\\Empleados\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-05T20:21:12.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jawic\\Desktop\\YIAYIAYIAYIA\\PerfilesSA\\PerfilesSA2\\Views\\Empleados\\Edit.cshtml",
               "RelativeDocumentMoniker": "PerfilesSA2\\Views\\Empleados\\Edit.cshtml",
